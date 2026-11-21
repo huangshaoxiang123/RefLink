@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="RefLink — Zotero 安全交叉引用跳转插件" width="100%">
+  <img src="./banner.svg" alt="RefLink — Zotero 安全交叉引用跳转插件" width="100%">
 </p>
 
 # RefLink — Zotero 安全交叉引用跳转插件（Word & WPS 全平台）
@@ -32,12 +32,14 @@
 
 | 对应平台 | 官方安装包下载 | 图文使用教程 | 适用环境与说明 |
 | :--- | :--- | :--- | :--- |
-| **Mac · WPS 文字** | [RefLink-0.5.0-macOS.zip](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-0.5.0-macOS.zip) (152 KB) | [图文 PDF 教程](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-Mac-WPS-%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf) | macOS 12+，支持正文 / 脚注 / 尾注，纯离线运行 |
-| **Windows · WPS 文字** | [RefLink-WPS-0.5.0-Windows.zip](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-WPS-0.5.0-Windows.zip) (129 KB) | [图文 PDF 教程](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-Windows-WPS-%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf) | Windows 10/11 + WPS 2019+，支持正文 / 脚注 / 尾注，纯离线运行 |
-| **Mac · Microsoft Word** | [RefLink-Word-0.5.0-macOS.zip](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-Word-0.5.0-macOS.zip) (31 KB) | [图文 PDF 教程](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-Mac-Word-%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf) | macOS 12+ + Microsoft 365 / Word 16.x（支持 WordApi 1.5），正文引文 |
-| **Windows · Microsoft Word** | [RefLink-Word-0.5.0-Windows.zip](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-Word-0.5.0-Windows.zip) (10 KB) | [图文 PDF 教程](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-Windows-Word-%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf) | Windows 10/11 + Microsoft 365 / 现代 Office 2021（支持 WordApi 1.5），正文引文 |
+| **Mac · WPS 文字** | [RefLink-0.5.0-macOS.zip](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-0.5.0-macOS.zip) (152 KB) | [图文 PDF 教程](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-Mac-WPS-.pdf) | macOS 12+，支持正文 / 脚注 / 尾注，纯离线运行 |
+| **Windows · WPS 文字** | [RefLink-WPS-0.5.0-Windows.zip](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-WPS-0.5.0-Windows.zip) (129 KB) | [图文 PDF 教程](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-Windows-WPS-.pdf) | Windows 10/11 + WPS 2019+，支持正文 / 脚注 / 尾注，纯离线运行 |
+| **Mac · Microsoft Word** | [RefLink-Word-0.5.0-macOS.zip](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-Word-0.5.0-macOS.zip) (31 KB) | [图文 PDF 教程](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-Mac-Word-.pdf) | macOS 12+ + Microsoft 365 / Word 16.x（支持 WordApi 1.5），正文引文 |
+| **Windows · Microsoft Word** | [RefLink-Word-0.5.0-Windows.zip](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-Word-0.5.0-Windows.zip) (10 KB) | [图文 PDF 教程](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-Windows-Word-.pdf) | Windows 10/11 + Microsoft 365 / 现代 Office 2021（支持 WordApi 1.5），正文引文 |
 
-> 💡 **国内网络备用下载**：如果校园网直连 GitHub Releases 下载缓慢，可通过国内网盘备用通道获取（可在此处替换为你的蓝奏云 / 夸克网盘链接，文件与 GitHub Release 完全一致，可通过 `.sha256` 核验完整性）。
+> 💡 **国内网络备用下载（百度网盘）**：如果校园网直连 GitHub Releases 下载缓慢，可通过百度网盘获取同款安装包与教程：
+> - 链接：[https://pan.baidu.com/s/1d8JRiYEYE_Tomy9YgLw8yA?pwd=7ndz](https://pan.baidu.com/s/1d8JRiYEYE_Tomy9YgLw8yA?pwd=7ndz) &nbsp;|&nbsp; 提取码：`7ndz`
+> - 网盘文件与 GitHub Release 完全一致，可通过 `.sha256` 核验完整性。
 
 ---
 
