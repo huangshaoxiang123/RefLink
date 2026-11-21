@@ -39,7 +39,7 @@
 | **Windows · Microsoft Word** | [RefLink-Word-0.5.0-Windows.zip](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-Word-0.5.0-Windows.zip) (10 KB) | [图文 PDF 教程](https://github.com/huangshaoxiang123/RefLink/releases/latest/download/RefLink-Windows-Word-.pdf) | Windows 10/11 + Microsoft 365 / 现代 Office 2021（支持 WordApi 1.5），正文引文 |
 
 > 💡 **国内网络备用下载（百度网盘）**：如果校园网直连 GitHub Releases 下载缓慢，可通过百度网盘获取同款安装包与教程：
-> - 链接：[https://pan.baidu.com/s/1d8JRiYEYE_Tomy9YgLw8yA?pwd=7ndz](https://pan.baidu.com/s/1d8JRiYEYE_Tomy9YgLw8yA?pwd=7ndz) &nbsp;|&nbsp; 提取码：`7ndz`
+> - 链接：[https://pan.baidu.com/s/1NicdL7-MmSoxTJ0j5f5MoQ?pwd=y95d](https://pan.baidu.com/s/1NicdL7-MmSoxTJ0j5f5MoQ?pwd=y95d) &nbsp;|&nbsp; 提取码：`y95d`
 > - 网盘文件与 GitHub Release 完全一致，可通过 `.sha256` 核验完整性。
 
 ---
