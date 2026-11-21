@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0f3d8a"/>
+      <stop offset="55%" stop-color="#1557b0"/>
+      <stop offset="100%" stop-color="#1d74e8"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.06"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <circle cx="1090" cy="40" r="180" fill="#ffffff" fill-opacity="0.06"/>
+  <circle cx="1150" cy="290" r="130" fill="#ffffff" fill-opacity="0.05"/>
+
+  <!-- Brand Icon -->
+  <g transform="translate(72, 68)">
+    <rect width="84" height="84" rx="20" fill="#ffffff" fill-opacity="0.16" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+    <rect x="18" y="16" width="36" height="48" rx="6" fill="#ffffff" fill-opacity="0.22" stroke="#ffffff" stroke-width="2.8"/>
+    <line x1="26" y1="28" x2="46" y2="28" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+    <line x1="26" y1="38" x2="40" y2="38" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+    <line x1="26" y1="48" x2="36" y2="48" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="58" cy="54" r="15" fill="#ffffff"/>
+    <path d="M52 59.5L63 48.5M63 48.5H54.5M63 48.5V57" stroke="#1453b0" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Title & Tagline -->
+  <text x="182" y="108" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="44" font-weight="800" letter-spacing="0.5">RefLink</text>
+  <text x="366" y="106" fill="#dbeafe" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="22" font-weight="600">Zotero 安全交叉引用跳转插件</text>
+  <text x="182" y="148" fill="#e0edff" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="19">点击论文中的 Zotero 引文角标，一键直达文末对应参考文献 · 完美保留 Zotero Refresh · 全程本地解析不上传文档</text>
+
+  <!-- Feature Pills -->
+  <g transform="translate(72, 194)" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="700">
+    <rect x="0" y="0" width="144" height="38" rx="19" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.3"/>
+    <text x="72" y="24" text-anchor="middle" fill="#ffffff">Mac · WPS</text>
+
+    <rect x="160" y="0" width="166" height="38" rx="19" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.3"/>
+    <text x="243" y="24" text-anchor="middle" fill="#ffffff">Windows · WPS</text>
+
+    <rect x="342" y="0" width="150" height="38" rx="19" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.3"/>
+    <text x="417" y="24" text-anchor="middle" fill="#ffffff">Mac · Word</text>
+
+    <rect x="508" y="0" width="174" height="38" rx="19" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.3"/>
+    <text x="595" y="24" text-anchor="middle" fill="#ffffff">Windows · Word</text>
+
+    <rect x="704" y="0" width="222" height="38" rx="19" fill="#ffffff" fill-opacity="0.94"/>
+    <text x="815" y="24" text-anchor="middle" fill="#1352ad">✓ 不破坏 Zotero Refresh</text>
+
+    <rect x="942" y="0" width="114" height="38" rx="19" fill="#ffffff" fill-opacity="0.94"/>
+    <text x="999" y="24" text-anchor="middle" fill="#1352ad">零文档上传</text>
+  </g>
+
+  <text x="72" y="276" fill="#bfdbfe" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="14">官方发布主页 · 免费下载安装与文档检测 · 一机一码离线永久授权 · 微信：hsx15299177861</text>
+</svg>
